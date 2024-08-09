@@ -33,27 +33,26 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Krati Shukla
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-lY2wa2sxu0T6CUA
 
 Team Member 2:
- - Full Name: 
+ - Full Name: Jatin Tekani
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 Team Member 3:
- - Full Name: 
+ - Full Name: Piyush Ranjan Maharana
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
-
-Team Member 4:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+We decided to tackle the challange of detecting methane plumes in satellite data using Machine Learning and Quantum Algorithms.
+We have proposed a modified U-Net architecture which was recently proposed for detecting buildings for methane detectection. But we have also proposed futher modifications that we believe will deliver better performance.
+The PDF in the repository contains details of our research and our solution.
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
