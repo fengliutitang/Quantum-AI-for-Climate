@@ -56,6 +56,6 @@ The PDF in the repository contains details of our research and our solution.
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
-
+https://docs.google.com/presentation/d/1vDdrrnObLrKbX0VqZ198bK7htnQOvvyYUp29UDsgcek/edit?usp=sharing
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
