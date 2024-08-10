@@ -49,8 +49,7 @@ Team Member 3:
 
 ### Project Solution:
 
-We decided to tackle the challange of detecting methane plumes in satellite data using Machine Learning and Quantum Algorithms.
-We have proposed a modified U-Net architecture which was recently proposed for detecting buildings for methane detectection. But we have also proposed futher modifications that we believe will deliver better performance.
+We decided to tackle the challenge of detecting methane plumes in satellite data using Machine Learning and Quantum Algorithms. We have proposed a modified U-Net architecture recently proposed for detecting buildings for methane detection. But we have also proposed further modifications to deliver better performance.
 The PDF in the repository contains details of our research and our solution.
 
 ### Project Presentation Deck:
