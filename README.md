@@ -38,24 +38,24 @@ Team Member 1:
 
 Team Member 2:
  - Full Name: Jatin Tekani
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-o7eyfIbxr7h7IlV
 
 
 Team Member 3:
  - Full Name: Piyush Ranjan Maharana
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-m5QsjG0jCARG27D
 
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+
 We decided to tackle the challange of detecting methane plumes in satellite data using Machine Learning and Quantum Algorithms.
 We have proposed a modified U-Net architecture which was recently proposed for detecting buildings for methane detectection. But we have also proposed futher modifications that we believe will deliver better performance.
 The PDF in the repository contains details of our research and our solution.
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
+
 https://docs.google.com/presentation/d/1vDdrrnObLrKbX0VqZ198bK7htnQOvvyYUp29UDsgcek/edit?usp=sharing
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
